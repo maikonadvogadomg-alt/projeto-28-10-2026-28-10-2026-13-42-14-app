@@ -1,0 +1,17 @@
+{
+  "titulo": "Projeto 28-10-2026 28-10-2026, 13-42-14",
+  "arquivo": "index.html",
+  "itens": [
+    {
+      "path": "meus-links/index.html",
+      "nome": "Meus Links",
+      "desc": "",
+      "on": true,
+      "icone": "meus-links/icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
